@@ -159,7 +159,3 @@ kafka-avro-console-consumer --bootstrap-server localhost:29092 --topic quickstar
 ```
 
 
-
-##  GET THE INSPIRATION : 
-* http://docs.confluent.io/3.0.1/cp-docker-images/docs/tutorials/connect-avro-jdbc.html
-* https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/
